@@ -31,6 +31,8 @@ pip install opencv-python matplotlib
 
 ---
 
+## Informacion
+
 **Centro:** CETI Colomos  
 **Carrera:** Mecatrónica — 6°E  
 **Materia:** Inteligencia Artificial  
