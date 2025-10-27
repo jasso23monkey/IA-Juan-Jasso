@@ -28,14 +28,3 @@ Puedes instalarlos con el siguiente comando:
 
 ```bash
 pip install opencv-python matplotlib
-
----
-
-## Informacion
-
-**Centro:** CETI Colomos  
-**Carrera:** Mecatrónica — 6°E  
-**Materia:** Inteligencia Artificial  
-**Profesor:** Mauricio Alejandro Cabrera Arellano
-
-
